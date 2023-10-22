@@ -2,7 +2,7 @@
 
 #Prompt Engineering; [OpenAI](https://chat.openai.com/c/c8826fd5-ba82-475b-b7ef-8b2b04537c0c)
 
-## When checking into your first duty station in the United States Marine Corps (USMC), it's important to ensure you have all the necessary documentation and paperwork to facilitate a smooth transition. The specific requirements and procedures may vary, so it's essential to check with your unit's personnel or administrative office for any additional information or changes that may have occurred after my knowledge cutoff date in September 2021. However, here are some common documents you should typically bring:
+When checking into your first duty station in the United States Marine Corps (USMC), it's important to ensure you have all the necessary documentation and paperwork to facilitate a smooth transition. The specific requirements and procedures may vary, so it's essential to check with your unit's personnel or administrative office for any additional information or changes that may have occurred after my knowledge cutoff date in September 2021. However, here are some common documents you should typically bring:
 
 1. **Orders**: Your official orders are one of the most critical documents. This document outlines your assignment, your reporting date, and other important details. Ensure you have both your original orders and multiple copies.
 
