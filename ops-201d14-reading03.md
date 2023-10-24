@@ -1,5 +1,5 @@
 # ops-201d14-reading-notes
-##Issue tracking system
+## Issue tracking system
 
 ### Q: 1. What role does the help desk professional play within an organization, particularly in relation to customers?
 A:The help desk professional is the face of the IT staff and they nearly act as a company representitive.
