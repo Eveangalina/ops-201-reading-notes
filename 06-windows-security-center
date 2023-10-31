@@ -7,7 +7,7 @@ Q: What information does the “Device performance & health” section provide, 
 A: You may access the Device performance and health via the Windows Security window, this section provides information on the current Window's update, the storage capacity, the device driver and monitors the battery life.
 
 Q: How does the Windows Defender Security Center notify you of issues that require your attention?
-A: On the bottom right corner of your screen in the icon overlay, you will see a yellow explamation point over the shield if their are issues that need attention. 
+A: On the bottom right corner of your screen in the icon overlay, you will see a red explamation point over the shield if their are issues that need attention. 
 
 Q: What features are managed under the “Firewall & network protection” section in the Windows Defender Security Center?
 A: Network and Firewall troubleshooting information.
