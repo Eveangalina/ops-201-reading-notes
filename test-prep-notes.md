@@ -49,3 +49,4 @@
 - ried components are most likely due to a power supply problem; therefore, the PSU is likely the culprit. 
 - Multifunctional printers and touchscreens are input and output devices. 
 - Webcams are input and CRTs are monitors, so they are output only.
+- Permissions are considered part of data definition. 
