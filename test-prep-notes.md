@@ -42,4 +42,10 @@
 - Examples of availability threats include denial of service, power outage, hardware failure, destruction, and service outage.
 - Arrays and vectors are the two container types. Arrays have a fixed length, and vectors can have a dynamically allocated length.
 - guaranteed bandwith? QoS
-- 
+- DNS servers resolve host names to IP addresses 
+- Biometrics and a one-time password are examples of authentication factors
+- Dual inline memory modules (DIMMs) can use 240-pin connectors (and other sizes too). 
+- A 64-bit processor can handle 32-bit or 64-bit OSs. It is a waste of power to use a 32-bit OS on it, but it will work
+- ried components are most likely due to a power supply problem; therefore, the PSU is likely the culprit. 
+- Multifunctional printers and touchscreens are input and output devices. 
+- Webcams are input and CRTs are monitors, so they are output only.
