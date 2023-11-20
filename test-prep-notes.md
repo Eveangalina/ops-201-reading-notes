@@ -50,3 +50,4 @@
 - Multifunctional printers and touchscreens are input and output devices. 
 - Webcams are input and CRTs are monitors, so they are output only.
 - Permissions are considered part of data definition. 
+- ALTER is to add, delete, and modify columns.
